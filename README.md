@@ -13,7 +13,7 @@ Dataset Link: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 <h3>Implementation</h3>
 ![Screenshot (987)](https://github.com/mayuriyerande/Skin_Cancer_Detection/assets/100609372/72baddc9-0735-4b52-9298-d25eeadeca9f)
+
 ![Screenshot (988)](https://github.com/mayuriyerande/Skin_Cancer_Detection/assets/100609372/38c6827d-6571-49bb-a89a-6d31e91441f4)
+
 ![Screenshot (989)](https://github.com/mayuriyerande/Skin_Cancer_Detection/assets/100609372/3d2905e3-5526-4a78-ab7f-dc93e7d9981c)
-![Screenshot (990)](https://github.com/mayuriyerande/Skin_Cancer_Detection/assets/100609372/44582ae5-1f76-4aa1-8980-f0b8b2270bf3)
-![Screenshot (991)](https://github.com/mayuriyerande/Skin_Cancer_Detection/assets/100609372/59ad387b-6396-49d1-8659-d955b2ebe2a1)
