@@ -12,6 +12,7 @@ Our dataset was hosted by International skin imaging collaboration. Training of 
 Dataset Link: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000 
 
 <h3>Implementation</h3>
+
 ![Screenshot (987)](https://github.com/mayuriyerande/Skin_Cancer_Detection/assets/100609372/72baddc9-0735-4b52-9298-d25eeadeca9f)
 
 ![Screenshot (988)](https://github.com/mayuriyerande/Skin_Cancer_Detection/assets/100609372/38c6827d-6571-49bb-a89a-6d31e91441f4)
