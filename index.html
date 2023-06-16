@@ -11,9 +11,18 @@
 </head>
 
 <body>
-        <video onloadedmetadata="this.muted = true" playsinline autoplay muted loop id="myVideo">
-        <source src="/assets/backcolor.mp4" type="video/mp4">
-      </video>
+    <video src="{{ asset('/assets/backcolor.mp4' )}}" muted autoplay loop playsinline></video>
+    <script>
+        window.addEventListener('load', async () => {
+  let video = document.querySelector('video[muted][autoplay]');
+  try {
+    await video.play();
+  } catch (err) {
+    video.controls = true;
+  }
+});</script>
+    
+       
     <div class="header">
         <nav>
             <img src="/assets/NicePng_breast-cancer-ribbon-vector_9264597.png" class="logo">
